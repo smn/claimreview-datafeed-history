@@ -1,7 +1,7 @@
-# ca-fires-history
+# claimreview-datafeed-history
 
-Tracking fire data from www.fire.ca.gov/incidents
+Tracking claim review data from https://storage.googleapis.com/datacommons-feeds/claimreview/latest/data.json
 
-This repo archives the latest version of https://www.fire.ca.gov/umbraco/Api/IncidentApi/GetIncidents every twenty minutes, if it has changed.
+This repo archives the latest version of https://storage.googleapis.com/datacommons-feeds/claimreview/latest/data.json every 5 minutes, if it has changed.
 
 Background on this project: [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
